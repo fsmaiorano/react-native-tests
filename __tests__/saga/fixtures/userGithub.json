@@ -1,0 +1,21 @@
+{
+  "/users/fsmaiorano": {
+    "login": "fsmaiorano",
+    "id": 5588353,
+    "avatar_url": "https: //avatars2.githubusercontent.com/u/5588353?v=4", "gravatar_id": "",
+    "url": "https: //api.github.com/users/fsmaiorano", "html_url": "https: //github.com/fsmaiorano", "followers_url": "https: //api.github.com/users/fsmaiorano/followers", "following_url": "https: //api.github.com/users/fsmaiorano/following{/other_user}", "gists_url": "https: //api.github.com/users/fsmaiorano/gists{/gist_id}", "starred_url": "https: //api.github.com/users/fsmaiorano/starred{/owner}{/repo}", "subscriptions_url": "https: //api.github.com/users/fsmaiorano/subscriptions", "organizations_url": "https: //api.github.com/users/fsmaiorano/orgs", "repos_url": "https: //api.github.com/users/fsmaiorano/repos", "events_url": "https: //api.github.com/users/fsmaiorano/events{/privacy}", "received_events_url": "https: //api.github.com/users/fsmaiorano/received_events", "type": "User",
+    "site_admin": false,
+    "name": "Fábio",
+    "company": "UOL EdTech",
+    "blog": "https: //www.linkedin.com/in/fsmaiorano", "location": "São Paulo, SP",
+    "email": null,
+    "hireable": true,
+    "bio": "Full-stack developer .NET C# ASPNET | AngularJS | ReactJS | NodeJS ",
+    "public_repos": 37,
+    "public_gists": 7,
+    "followers": 3,
+    "following": 12,
+    "created_at": "2013-10-01T18: 39: 22Z",
+    "updated_at": "2018-03-31T00: 11: 25Z"
+  }
+}
