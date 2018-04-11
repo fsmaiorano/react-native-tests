@@ -14,7 +14,7 @@ describe('Testing Post', () => {
 
     const wrapper = shallow(<Post post={post} onDelete={deletePostSpy} />);
 
-    wrapper.find(Button).simulate('press');
+    wrapper.find(Button).simulate('press'); // simula click no botao
 
     expect(deletePostSpy.withArgs(post.id).calledOnce).toBe(true);
   });
