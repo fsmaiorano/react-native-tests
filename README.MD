@@ -1,7 +1,6 @@
-##React Native Tests
+# React Native Tests
 
 A simple example for use React-Native with Jest.
-
 
 ## Requeriments
 *   npm or yarn
